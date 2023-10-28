@@ -135,6 +135,6 @@
 [instagram]: [https://instagram.com/the.cs.geek?igshid=1mamru7aa53b2](https://www.instagram.com/ale.villamagua8/)
 [facebook]: https://www.facebook.com/alejandro.villamaguarey
 -----
-Credits: [SumanthTalluri](https://github.com/Villamagua)
+Credits: [SumanthTalluri](https://github.com/)
 
 Last Edited on: 28/10/2023
