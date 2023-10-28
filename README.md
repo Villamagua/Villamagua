@@ -133,26 +133,16 @@
 <!--START_SECTION_WEEKLY_COMMIT:readme-info-->
 📅 **I'm Most Productive on Thursdays** 
 
-| | | | |
-| --- | --- | --- | --- |
-|Monday                   |89 commits          |![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|14.61%|
-|Tuesday                  |62 commits          |![](https://via.placeholder.com/40x22/000000/000000?text=+)![](https://via.placeholder.com/360x22/b8b8b8/b8b8b8?=text=+)|10.18%|
-|Wednesday                |91 commits          |![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|14.94%|
-|Thursday                 |110 commits         |![](https://via.placeholder.com/72x22/000000/000000?text=+)![](https://via.placeholder.com/328x22/b8b8b8/b8b8b8?=text=+)|18.06%|
-|Friday                   |82 commits          |![](https://via.placeholder.com/52x22/000000/000000?text=+)![](https://via.placeholder.com/348x22/b8b8b8/b8b8b8?=text=+)|13.46%|
-|Saturday                 |72 commits          |![](https://via.placeholder.com/48x22/000000/000000?text=+)![](https://via.placeholder.com/352x22/b8b8b8/b8b8b8?=text=+)|11.82%|
-|Sunday                   |103 commits         |![](https://via.placeholder.com/68x22/000000/000000?text=+)![](https://via.placeholder.com/332x22/b8b8b8/b8b8b8?=text=+)|16.91%|
-| | | | |
+
 
 <!--END_SECTION_WEEKLY_COMMIT:readme-info-->
 
 <!--START_SECTION_LANGUAGE:readme-info-->
-**My 💖 languages Python** 
+**My 💖 languages JAVA** 
 
 | | | | |
 | --- | --- | --- | --- |
-|Python                   |10 repos|            ![](https://via.placeholder.com/224x22/000000/000000?text=+)![](https://via.placeholder.com/176x22/b8b8b8/b8b8b8?=text=+)|55.56%|
-|HTML                     |7 repos|             ![](https://via.placeholder.com/156x22/000000/000000?text=+)![](https://via.placeholder.com/244x22/b8b8b8/b8b8b8?=text=+)|38.89%|
+
 |JavaScript               |1 repos|             ![](https://via.placeholder.com/24x22/000000/000000?text=+)![](https://via.placeholder.com/376x22/b8b8b8/b8b8b8?=text=+)|5.56%|
 | | | | |
 
@@ -169,6 +159,7 @@
 <!--[youtube]: https://www.youtube.com/channel/UC40R8Rvwjhu08Z0MFffNfsg-->
 [instagram]: https://instagram.com/the.cs.geek?igshid=1mamru7aa53b2
 [linkedin]: https://www.linkedin.com/in/tv-sai-sumanth-3b7811141/
+[facebook]: https://www.facebook.com/alejandro.villamaguarey
 -----
 Credits: [SumanthTalluri](https://github.com/Sumanth-Talluri)
 
