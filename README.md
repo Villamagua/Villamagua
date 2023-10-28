@@ -111,9 +111,6 @@
 
 ### 📊 &nbsp; STATS
 
-<!--START_SECTION_LINES_OF_CODE:readme-info-->
-**From Hello World I have written 1.4 million Lines of Code ✍️**
-
 
 <!--END_SECTION_LINES_OF_CODE:readme-info-->
 
@@ -154,11 +151,8 @@
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 </div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
 
-<!--[website]: -->
-[twitter]: https://twitter.com/sumanth_98?s=09
 <!--[youtube]: https://www.youtube.com/channel/UC40R8Rvwjhu08Z0MFffNfsg-->
-[instagram]: https://instagram.com/the.cs.geek?igshid=1mamru7aa53b2
-[linkedin]: https://www.linkedin.com/in/tv-sai-sumanth-3b7811141/
+[instagram]: [https://instagram.com/the.cs.geek?igshid=1mamru7aa53b2](https://www.instagram.com/ale.villamagua8/)
 [facebook]: https://www.facebook.com/alejandro.villamaguarey
 -----
 Credits: [SumanthTalluri](https://github.com/Sumanth-Talluri)
