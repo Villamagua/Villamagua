@@ -21,7 +21,7 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### Estoy Estudiando la Carrera de COMPUTACION(Systems Engineer) 
+### Estoy Estudiando la Carrera de COMPUTACION(Ingenieria en Sistemas) 
 - 🌱 I’m currently learning JAVA.
 - 🥅 2024 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
